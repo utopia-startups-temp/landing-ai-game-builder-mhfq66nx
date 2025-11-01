@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "ai game builder",
+    "primary": "#ff93e6",
+    "secondary": "#e293ff",
+    "accent": "#ff93b0",
+    "background": "#ffffff",
+    "text": "#1a1a1a",
+    "fontFamily": "Rubik, system-ui, sans-serif",
+    "tone": "friendly"
+  },
+  "goal": "lead-collection",
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "eyebrow": "Introducing the Future of Game Development",
+      "headline": "Create Your Dream Game with AI",
+      "subheadline": "No coding. No design skills. Just your imagination.",
+      "body": "Transform your game ideas into reality with our intuitive AI game builder. It's game creation, reimagined.",
+      "background": {
+        "color": "#ff93e6",
+        "pattern": "gradient",
+        "emphasis": "medium"
+      }
+    },
+    {
+      "id": "problem",
+      "type": "problem",
+      "headline": "Facing Game Development Roadblocks?",
+      "subheadline": "Creating games is challenging without coding knowledge or design expertise.",
+      "body": "From complex logic to asset creation, the barriers to entry have never been higher.",
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "solution",
+      "type": "solution",
+      "headline": "Our AI is the Game Changer",
+      "subheadline": "Experience seamless game development, powered by AI.",
+      "body": "With our AI game builder, turn your vision into a playable game effortlessly.",
+      "items": [
+        {
+          "title": "Intuitive Design",
+          "description": "An easy-to-use interface that guides you through the game creation process."
+        },
+        {
+          "title": "AI-Powered Creativity",
+          "description": "From narratives to game mechanics, AI assists in every step."
+        },
+        {
+          "title": "Export with Ease",
+          "description": "Get your game ready for the world with simple exporting tools."
+        }
+      ],
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "features",
+      "type": "features",
+      "headline": "Features That Empower Your Creativity",
+      "items": [
+        {
+          "title": "Custom AI Art Generation",
+          "description": "Create unique game visuals directly from descriptions."
+        },
+        {
+          "title": "Smart Level Design",
+          "description": "Automatically generated levels tailored to your game's style."
+        },
+        {
+          "title": "Dynamic Storylines",
+          "description": "Craft compelling narratives with the help of AI."
+        }
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "testimonials",
+      "type": "testimonials",
+      "headline": "Success Stories",
+      "testimonials": [
+        {
+          "quote": "I created my first game in a weekend, no coding required!",
+          "name": "Jamie L.",
+          "title": "Indie Game Developer"
+        },
+        {
+          "quote": "This tool helped my students grasp game development concepts quickly.",
+          "name": "Alex R.",
+          "title": "Educator"
+        }
+      ],
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "cta",
+      "type": "cta",
+      "headline": "Ready to Build Your Dream Game?",
+      "subheadline": "Join the revolution in game development.",
+      "background": {
+        "color": "#ff93b0",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    }
+  ]
+}
